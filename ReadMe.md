@@ -16,11 +16,6 @@ I'm a student from the UK currently focused on mastering C++ and exploring Machi
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app" alt="Langs" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=jamesecass&theme=dark&hide_border=true" alt="Streak" width="100%" />
 </p>
 
