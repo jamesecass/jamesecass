@@ -18,8 +18,3 @@ I'm a student from the UK currently focused on mastering C++ and exploring Machi
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=jamesecass&theme=dark&hide_border=true" alt="Streak" width="100%" />
 </p>
-
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jamesecass&icon=0&color=0" alt="Visitor Count" />
-</p>
