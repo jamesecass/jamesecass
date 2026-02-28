@@ -7,7 +7,7 @@ I’m currently focused on strengthening my programming fundamentals (data struc
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 -  Mastering **Data Structures & Algorithms**
 -  Building structured Python & C++ projects
