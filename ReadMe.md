@@ -1,7 +1,7 @@
 # 👋 Hi, I'm James!
-### 🇬🇧 UK Student | Aspiring Software Engineer | ML Enthusiast
+### 🇬🇧 UK Student | Aspiring Developer | ML Enthusiast
 
-I'm a UK-based student preparing for competitive software engineering apprenticeships at companies like Google, Amazon, and JPMorgan.
+I'm a UK-based student 
 
 I’m currently focused on strengthening my programming fundamentals (data structures & algorithms), building real-world projects, and exploring machine learning with PyTorch.
 
