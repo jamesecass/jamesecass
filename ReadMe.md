@@ -1,5 +1,5 @@
 # 👋 Hi, I'm James!
-### 🇬🇧 GCSE Student | Aspiring Software Engineer | ML Enthusiast
+### 🇬🇧 GCSE Student | Aspiring Developer | ML Enthusiast
 
 I'm a student from the UK currently focused on mastering C++ and exploring Machine Learning with PyTorch. I love building logic-heavy projects to push my programming limits!
 
