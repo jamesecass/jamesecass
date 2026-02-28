@@ -1,4 +1,4 @@
-# 👋 Hi, I'm James!
+#  Hi, I'm James!
 ### 🇬🇧 UK Student | Aspiring Developer | ML Enthusiast
 
 I'm a UK-based student 
@@ -9,15 +9,15 @@ I’m currently focused on strengthening my programming fundamentals (data struc
 
 ## 🚀 Current Focus
 
-- 🧠 Mastering **Data Structures & Algorithms**
-- 🛠️ Building structured Python & C++ projects
-- 🤖 Exploring **Reinforcement Learning** (Flappy Bird DQN project)
-- ☁️ Learning cloud fundamentals with **AWS**
-- 📚 Studying GCSE Computer Science & Maths
+-  Mastering **Data Structures & Algorithms**
+-  Building structured Python & C++ projects
+-  Exploring **Reinforcement Learning** (Flappy Bird DQN project)
+-  Learning cloud fundamentals with **AWS**
+-  Studying GCSE Computer Science & Maths
 
 ---
 
-## 🧠 Algorithms & Problem Solving
+##  Algorithms & Problem Solving
 
 I actively practice problem-solving to strengthen my fundamentals:
 
@@ -40,10 +40,10 @@ I actively practice problem-solving to strengthen my fundamentals:
 
 ## 📌 Featured Projects
 
-- 🐦 **Flappy-Bird-AI** – Deep Q-Network trained in a custom Pygame environment  
-- 🟡 **Connect-Four** – Grid-based game with full win detection logic  
-- ❌ **Tic-Tac-Toe** – Clean game-state implementation  
-- 🟩 **Wordle** – String manipulation & validation logic  
+-  **Flappy-Bird-AI** – Deep Q-Network trained in a custom Pygame environment  
+-  **Connect-Four** – Grid-based game with full win detection logic  
+-  **Tic-Tac-Toe** – Clean game-state implementation  
+-  **Wordle** – String manipulation & validation logic  
 
 ---
 
