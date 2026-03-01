@@ -1,5 +1,5 @@
 #  Hi, I'm James!
-### 🇬🇧 UK Student | Aspiring Developer | ML Enthusiast
+### 🇬🇧 UK Student | Aspiring Developer
 
 I'm a UK-based student 
 
