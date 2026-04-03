@@ -21,7 +21,8 @@ I’m currently focused on strengthening my programming fundamentals (data struc
 
 I actively practice problem-solving to strengthen my fundamentals:
 
-🔗 **LeetCode:** https://leetcode.com/u/James2504/
+🔗 **LeetCode:**    https://leetcode.com/u/James2504/
+🔗 **CodeForces**   https://codeforces.com/profile/James2504
 
 - Focused on arrays, strings, hash maps, and recursion
 - Building strong time complexity intuition
