@@ -1,5 +1,5 @@
 #  Hi, I'm James!
-### 🇬🇧 UK Student | Aspiring Developer
+### 🇬🇧 UK Student
 
 I'm a UK-based student 
 
